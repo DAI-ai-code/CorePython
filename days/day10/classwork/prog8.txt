@@ -1,0 +1,3 @@
+EMP_ID : E1, name : AAA, salary : 1000
+EMP_ID : E2, name : BBB, salary : 2000
+EMP_ID : E3, name : BBB, salary : 5000

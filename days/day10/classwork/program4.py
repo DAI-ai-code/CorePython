@@ -1,0 +1,22 @@
+try:
+    f1 = open("prog4_1.txt", 'w')
+    f1.write("hello\nworld")
+    f1.close()
+    f2 = open("prog4_2.txt", 'w')
+    f2.write("how are \nyou")
+    f2.close()
+    f1 = open("prog4_1.txt", 'r')
+    data1 = f1.read()
+    f1.close()
+    f2 = open("prog4_2.txt", 'r')
+    data2 = f2.read()
+    f2.close()
+    f3 = open("prog4_3.txt", 'a')
+    f3.write(data1)
+    f3.write('\n')
+    f3.write(data2)
+    f3.close()
+except:
+    print('error')
+finally:
+    print('closed')

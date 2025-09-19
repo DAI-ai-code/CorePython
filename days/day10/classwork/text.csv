@@ -1,0 +1,6 @@
+Date,Patient,Procedure,Amount,Insurance_Covered
+2024-01-15,John Smith,Dental Checkup,150,Yes
+2024-01-20,Jane Doe,Eye Exam,85,Yes
+2024-02-03,Robert Johnson,Physical Therapy,200,No
+2024-02-10,Emily Wilson,Vaccination,120,Yes
+2024-02-18,Mike Brown,Blood Test,95,Yes
