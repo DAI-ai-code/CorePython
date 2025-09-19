@@ -49,7 +49,7 @@ class Library:
         for key in Library.member_issued_books:
             if key == member_ID:
                 l.append(Library.member_issued_books[key])
-        print("Books issued by you: ", l)
+        print("Books issued by you: ", l[0])
 
 
 
@@ -67,4 +67,7 @@ library.display_books()
 
 m1 = Member(101,"Gaga", None)
 library.issue_book(101,1)
+library.issue_book(101,2)
+library.issue_book(101,3)
+library.issue_book(101,4)
 m1.list_of_books()
