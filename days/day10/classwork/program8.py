@@ -33,7 +33,45 @@ finally:
 
 damm = damm.split('\n')
 print(damm)
+dammer = []
 for i in damm:
     if i!='':
-        print(i.split(','))
+        dammer.append(i.split(','))
+
+
+l = []
+for i in range(3):
+    d= {}
+    for j in range(3):
+        exp = dammer[i][j].strip().split(' : ')
+        d[exp[0]] = exp[1]
+    else:
+        l.append(d)
+else:
+    print(l)
+
+emp_list = []
+for i in l:
+    empid = i['EMP_ID']
+    name = i['name']
+    salary = i['salary']
+    emp_list.append(Employee(empid, name, salary))
+
+print(type(emp_list[0]))
+print(emp_list)
+
+emp_dict = {}
+e_id = 1
+for i in l:
+    empid = i['EMP_ID']
+    name = i['name']
+    salary = i['salary']
+    emp_dict[e_id] = Employee(empid, name, salary)
+
+print(type(emp_dict[1]))
+print(emp_dict)
+
+
+
+
 
