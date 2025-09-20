@@ -76,7 +76,6 @@ class Manager(Employee):
                        self.hra, self.medical_allowance, self.manager_allowance, self.food_allowance, self.other_allowance, None, None)
         cursor.execute(f"insert into employees values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)", parameters)
 
-
 class MarketingExecutive(Employee):
     def __init__(self, empid, ename, basic_salary, medical_allowance, kms_travelled):
         super().__init__(empid, ename, basic_salary, medical_allowance)

@@ -12,7 +12,7 @@ class Employee:
         print(f'Employer ID: {self.empid}\nname:{self.ename}\nSalary : {self.esalary}')
 
     def __repr__(self):
-        return f"Employee(empid='{self.empid}','name={self.ename}', esalary={self.esalary})"
+        return f"empid='{self.empid}','name={self.ename}', esalary={self.esalary})"
 
     def __gt__(self, other):
         return self.esalary < other.esalary
@@ -22,4 +22,3 @@ class Employee:
         print(f'count = {Employee.count}')
 
 
-        
