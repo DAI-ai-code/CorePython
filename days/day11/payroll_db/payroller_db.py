@@ -31,7 +31,7 @@ class Employee:
     def add_to_table(self):
         conn = pymysql.connect(host='localhost', user='root', password='112233', database='emp_db', autocommit=True)
         cursor = conn.cursor()
-        if(Employee.table_counter==0):
+        if Employee.table_counter==0:
             cursor.execute("""
             CREATE TABLE employees (
                 empid INT PRIMARY KEY,
