@@ -1,62 +1,47 @@
 from assignments.Assignment_three.DessertClass import *
+from assignments.Assignment_three.CartIsEmptyException import *
 
 class Checkout:
     def __init__(self):
-        self.still_buying = True
-        self.cart = {}
-        self.items = 0
+        self.cart = []
 
-    def start_checkout(self):
-        while self.still_buying:
-            print("-"*20, "Menu", "-"*20)
-            print("For Cookie press 1")
-            print("For Candy press 2")
-            print("For Icecream press 3")
-            print("For Sundae press 4")
-            print("press anything else to exit!")
-            print("-"*46)
+    def enter_item(self, item:DessertItem):
+        self.cart.append(item)
 
-            pressed = int(input("Please press from above mentioned digits: "))
+    def clear(self):
+        self.cart.clear()
 
-            if not 1 <= pressed <=4:
-                print("You are exiting!")
-                self.still_buying = False
-                break
-            else:
-                quantity = int(input("Enter quantity: "))
-                if pressed == 1:
-                    c = Cookie("Choco",quantity)
-                elif pressed == 2:
-                    c = Candy("Strawberry",quantity)
-                elif pressed == 3:
-                    c = Icecream("Vanilla", quantity)
-                else:
-                    c = Sundae("Vanilla", quantity)
+    def number_of_items(self):
+        return len(self.cart)
 
-                self.items += 1
-                self.cart[self.items] = c
+    def total_cost(self):
+        if not self.cart:
+            raise CartIsEmpty("Cart is empty! Add items before checkout.")
+        return sum(item.get_cost() for item in self.cart)
 
-        return self.cart
-
-    def generate_bill(self):
-        order_cart = self.cart   # use the already filled cart
-        total = 0
-
-        print("\n----- BILL SUMMARY -----")
-        for key, value in order_cart.items():
-            print(value)                 # __repr__ prints item details
-            total += value.get_cost()    # sum cost of each item
-
-        print("------------------------")
-        print(f"TOTAL BILL: {total}")
-        print("------------------------")
-
-        return total
+    def __str__(self):
+        if not self.cart:
+            raise CartIsEmpty("Cart is empty! Cannot generate invoice.")
+        invoice = "\n---- INVOICE ----\n"
+        for item in self.cart:
+            invoice += str(item) + '\n'
+        invoice += f"---------------\ntotal: Rs {self.total_cost():.2f}"
+        return invoice
 
 
-checkout = Checkout()
-cart = checkout.start_checkout()
-checkout.generate_bill()
-print(cart)
+try:
+    checkout = Checkout()
+    checkout.enter_item(Candy("Fudge", 200, 50))
+    checkout.enter_item(Cookie("ChocoChip", 4, 10))
+    checkout.enter_item(Icecream("Vanilla", 30))
+    checkout.enter_item(Sundae("Chocolate", 40, "Nuts", 10))
 
+    print(checkout)
 
+    checkout.clear()
+    print(checkout.total_cost())
+
+except InvalidAmount as e:
+    print(e)
+except CartIsEmpty as e:
+    print(e)

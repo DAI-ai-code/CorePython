@@ -1,0 +1,2 @@
+class CartIsEmpty(Exception):
+    pass
