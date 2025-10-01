@@ -8,7 +8,9 @@ new_df = pd.DataFrame()
 new_df['DateTime'] = df[0].apply(lambda x: x.split(" [")[0])
 new_df['Level'] = df[0].apply(lambda x: x.split(" ")[2].strip("[").strip("]"))
 new_df['Message'] = df[0].apply(lambda x: x.split("- ")[1].strip())
-
-plt.hist(new_df["Level"])
+l = new_df["Level"].value_counts().values
+print(l)
+plt.pie(l)
 plt.show()
+
 # print(new_df)
