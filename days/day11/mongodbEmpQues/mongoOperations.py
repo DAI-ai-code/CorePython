@@ -14,7 +14,6 @@ def inserter(empid,ename,salary):
 def updater(empid,salary):
     emp.update_one({"empid":empid},{'$set': {"salary": salary}})
 
-
 def deleter(empid):
     emp.delete_one({"empid":empid})
 
@@ -26,4 +25,6 @@ def selector_all():
     # for i in c:
     #     print(i)
     print(list(c))
+
+
 selector_all()

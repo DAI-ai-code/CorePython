@@ -1,0 +1,336 @@
+2025-10-01 15:33:47,341 - INFO - User picked up calculator.
+2025-10-01 15:33:47,341 - INFO - User wants to add.
+2025-10-01 15:33:47,341 - INFO - User wants to subtract.
+2025-10-01 15:33:47,341 - INFO - User wants to multiply.
+2025-10-01 15:33:47,341 - INFO - User wants to divide.
+2025-10-01 15:33:47,341 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:33:47,341 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:30,184 - INFO - User picked up calculator.
+2025-10-01 15:46:30,185 - INFO - User wants to add.
+2025-10-01 15:46:30,185 - INFO - User wants to subtract.
+2025-10-01 15:46:30,185 - INFO - User wants to multiply.
+2025-10-01 15:46:30,185 - INFO - User wants to divide.
+2025-10-01 15:46:30,185 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:30,185 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:30,386 - INFO - User picked up calculator.
+2025-10-01 15:46:30,387 - INFO - User wants to add.
+2025-10-01 15:46:30,387 - INFO - User wants to subtract.
+2025-10-01 15:46:30,387 - INFO - User wants to multiply.
+2025-10-01 15:46:30,387 - INFO - User wants to divide.
+2025-10-01 15:46:30,387 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:30,388 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:30,881 - INFO - User picked up calculator.
+2025-10-01 15:46:30,881 - INFO - User wants to add.
+2025-10-01 15:46:30,881 - INFO - User wants to subtract.
+2025-10-01 15:46:30,881 - INFO - User wants to multiply.
+2025-10-01 15:46:30,881 - INFO - User wants to divide.
+2025-10-01 15:46:30,881 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:30,882 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:31,112 - INFO - User picked up calculator.
+2025-10-01 15:46:31,112 - INFO - User wants to add.
+2025-10-01 15:46:31,113 - INFO - User wants to subtract.
+2025-10-01 15:46:31,113 - INFO - User wants to multiply.
+2025-10-01 15:46:31,113 - INFO - User wants to divide.
+2025-10-01 15:46:31,113 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:31,113 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:31,234 - INFO - User picked up calculator.
+2025-10-01 15:46:31,234 - INFO - User wants to add.
+2025-10-01 15:46:31,234 - INFO - User wants to subtract.
+2025-10-01 15:46:31,234 - INFO - User wants to multiply.
+2025-10-01 15:46:31,234 - INFO - User wants to divide.
+2025-10-01 15:46:31,234 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:31,234 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:31,390 - INFO - User picked up calculator.
+2025-10-01 15:46:31,391 - INFO - User wants to add.
+2025-10-01 15:46:31,391 - INFO - User wants to subtract.
+2025-10-01 15:46:31,391 - INFO - User wants to multiply.
+2025-10-01 15:46:31,391 - INFO - User wants to divide.
+2025-10-01 15:46:31,391 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:31,391 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:31,721 - INFO - User picked up calculator.
+2025-10-01 15:46:31,721 - INFO - User wants to add.
+2025-10-01 15:46:31,721 - INFO - User wants to subtract.
+2025-10-01 15:46:31,721 - INFO - User wants to multiply.
+2025-10-01 15:46:31,721 - INFO - User wants to divide.
+2025-10-01 15:46:31,721 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:31,721 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:31,933 - INFO - User picked up calculator.
+2025-10-01 15:46:31,934 - INFO - User wants to add.
+2025-10-01 15:46:31,934 - INFO - User wants to subtract.
+2025-10-01 15:46:31,934 - INFO - User wants to multiply.
+2025-10-01 15:46:31,934 - INFO - User wants to divide.
+2025-10-01 15:46:31,934 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:31,934 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:32,074 - INFO - User picked up calculator.
+2025-10-01 15:46:32,075 - INFO - User wants to add.
+2025-10-01 15:46:32,075 - INFO - User wants to subtract.
+2025-10-01 15:46:32,075 - INFO - User wants to multiply.
+2025-10-01 15:46:32,075 - INFO - User wants to divide.
+2025-10-01 15:46:32,075 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:32,075 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:32,369 - INFO - User picked up calculator.
+2025-10-01 15:46:32,369 - INFO - User wants to add.
+2025-10-01 15:46:32,369 - INFO - User wants to subtract.
+2025-10-01 15:46:32,369 - INFO - User wants to multiply.
+2025-10-01 15:46:32,369 - INFO - User wants to divide.
+2025-10-01 15:46:32,369 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:32,369 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:32,532 - INFO - User picked up calculator.
+2025-10-01 15:46:32,532 - INFO - User wants to add.
+2025-10-01 15:46:32,532 - INFO - User wants to subtract.
+2025-10-01 15:46:32,532 - INFO - User wants to multiply.
+2025-10-01 15:46:32,532 - INFO - User wants to divide.
+2025-10-01 15:46:32,532 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:32,532 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:32,666 - INFO - User picked up calculator.
+2025-10-01 15:46:32,666 - INFO - User wants to add.
+2025-10-01 15:46:32,666 - INFO - User wants to subtract.
+2025-10-01 15:46:32,666 - INFO - User wants to multiply.
+2025-10-01 15:46:32,666 - INFO - User wants to divide.
+2025-10-01 15:46:32,666 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:32,666 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:32,868 - INFO - User picked up calculator.
+2025-10-01 15:46:32,869 - INFO - User wants to add.
+2025-10-01 15:46:32,869 - INFO - User wants to subtract.
+2025-10-01 15:46:32,869 - INFO - User wants to multiply.
+2025-10-01 15:46:32,869 - INFO - User wants to divide.
+2025-10-01 15:46:32,869 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:32,869 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,035 - INFO - User picked up calculator.
+2025-10-01 15:46:33,036 - INFO - User wants to add.
+2025-10-01 15:46:33,036 - INFO - User wants to subtract.
+2025-10-01 15:46:33,036 - INFO - User wants to multiply.
+2025-10-01 15:46:33,036 - INFO - User wants to divide.
+2025-10-01 15:46:33,036 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,036 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,457 - INFO - User picked up calculator.
+2025-10-01 15:46:33,457 - INFO - User wants to add.
+2025-10-01 15:46:33,457 - INFO - User wants to subtract.
+2025-10-01 15:46:33,457 - INFO - User wants to multiply.
+2025-10-01 15:46:33,457 - INFO - User wants to divide.
+2025-10-01 15:46:33,457 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,457 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,523 - INFO - User picked up calculator.
+2025-10-01 15:46:33,523 - INFO - User wants to add.
+2025-10-01 15:46:33,523 - INFO - User wants to subtract.
+2025-10-01 15:46:33,523 - INFO - User wants to multiply.
+2025-10-01 15:46:33,523 - INFO - User wants to divide.
+2025-10-01 15:46:33,523 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,523 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,654 - INFO - User picked up calculator.
+2025-10-01 15:46:33,654 - INFO - User wants to add.
+2025-10-01 15:46:33,654 - INFO - User wants to subtract.
+2025-10-01 15:46:33,654 - INFO - User wants to multiply.
+2025-10-01 15:46:33,654 - INFO - User wants to divide.
+2025-10-01 15:46:33,654 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,654 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,808 - INFO - User picked up calculator.
+2025-10-01 15:46:33,809 - INFO - User wants to add.
+2025-10-01 15:46:33,809 - INFO - User wants to subtract.
+2025-10-01 15:46:33,809 - INFO - User wants to multiply.
+2025-10-01 15:46:33,809 - INFO - User wants to divide.
+2025-10-01 15:46:33,809 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,809 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:33,973 - INFO - User picked up calculator.
+2025-10-01 15:46:33,974 - INFO - User wants to add.
+2025-10-01 15:46:33,974 - INFO - User wants to subtract.
+2025-10-01 15:46:33,974 - INFO - User wants to multiply.
+2025-10-01 15:46:33,974 - INFO - User wants to divide.
+2025-10-01 15:46:33,974 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:33,974 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:34,150 - INFO - User picked up calculator.
+2025-10-01 15:46:34,150 - INFO - User wants to add.
+2025-10-01 15:46:34,150 - INFO - User wants to subtract.
+2025-10-01 15:46:34,150 - INFO - User wants to multiply.
+2025-10-01 15:46:34,150 - INFO - User wants to divide.
+2025-10-01 15:46:34,150 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:34,151 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:47,913 - INFO - User picked up calculator.
+2025-10-01 15:46:47,914 - INFO - User wants to add.
+2025-10-01 15:46:47,914 - INFO - User wants to subtract.
+2025-10-01 15:46:47,914 - INFO - User wants to multiply.
+2025-10-01 15:46:47,914 - INFO - User wants to divide.
+2025-10-01 15:46:47,914 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:47,914 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:48,076 - INFO - User picked up calculator.
+2025-10-01 15:46:48,076 - INFO - User wants to add.
+2025-10-01 15:46:48,076 - INFO - User wants to subtract.
+2025-10-01 15:46:48,076 - INFO - User wants to multiply.
+2025-10-01 15:46:48,076 - INFO - User wants to divide.
+2025-10-01 15:46:48,077 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:48,077 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:48,623 - INFO - User picked up calculator.
+2025-10-01 15:46:48,623 - INFO - User wants to add.
+2025-10-01 15:46:48,623 - INFO - User wants to subtract.
+2025-10-01 15:46:48,623 - INFO - User wants to multiply.
+2025-10-01 15:46:48,623 - INFO - User wants to divide.
+2025-10-01 15:46:48,623 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:48,623 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:48,694 - INFO - User picked up calculator.
+2025-10-01 15:46:48,694 - INFO - User wants to add.
+2025-10-01 15:46:48,694 - INFO - User wants to subtract.
+2025-10-01 15:46:48,694 - INFO - User wants to multiply.
+2025-10-01 15:46:48,694 - INFO - User wants to divide.
+2025-10-01 15:46:48,694 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:48,694 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:48,931 - INFO - User picked up calculator.
+2025-10-01 15:46:48,931 - INFO - User wants to add.
+2025-10-01 15:46:48,931 - INFO - User wants to subtract.
+2025-10-01 15:46:48,931 - INFO - User wants to multiply.
+2025-10-01 15:46:48,932 - INFO - User wants to divide.
+2025-10-01 15:46:48,932 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:48,932 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:49,089 - INFO - User picked up calculator.
+2025-10-01 15:46:49,089 - INFO - User wants to add.
+2025-10-01 15:46:49,089 - INFO - User wants to subtract.
+2025-10-01 15:46:49,089 - INFO - User wants to multiply.
+2025-10-01 15:46:49,089 - INFO - User wants to divide.
+2025-10-01 15:46:49,089 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:49,089 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:49,535 - INFO - User picked up calculator.
+2025-10-01 15:46:49,535 - INFO - User wants to add.
+2025-10-01 15:46:49,535 - INFO - User wants to subtract.
+2025-10-01 15:46:49,535 - INFO - User wants to multiply.
+2025-10-01 15:46:49,535 - INFO - User wants to divide.
+2025-10-01 15:46:49,535 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:49,535 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:49,585 - INFO - User picked up calculator.
+2025-10-01 15:46:49,585 - INFO - User wants to add.
+2025-10-01 15:46:49,585 - INFO - User wants to subtract.
+2025-10-01 15:46:49,586 - INFO - User wants to multiply.
+2025-10-01 15:46:49,586 - INFO - User wants to divide.
+2025-10-01 15:46:49,586 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:49,586 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:49,899 - INFO - User picked up calculator.
+2025-10-01 15:46:49,899 - INFO - User wants to add.
+2025-10-01 15:46:49,899 - INFO - User wants to subtract.
+2025-10-01 15:46:49,899 - INFO - User wants to multiply.
+2025-10-01 15:46:49,899 - INFO - User wants to divide.
+2025-10-01 15:46:49,900 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:49,900 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:50,068 - INFO - User picked up calculator.
+2025-10-01 15:46:50,069 - INFO - User wants to add.
+2025-10-01 15:46:50,069 - INFO - User wants to subtract.
+2025-10-01 15:46:50,069 - INFO - User wants to multiply.
+2025-10-01 15:46:50,069 - INFO - User wants to divide.
+2025-10-01 15:46:50,069 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:50,069 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:50,204 - INFO - User picked up calculator.
+2025-10-01 15:46:50,204 - INFO - User wants to add.
+2025-10-01 15:46:50,204 - INFO - User wants to subtract.
+2025-10-01 15:46:50,204 - INFO - User wants to multiply.
+2025-10-01 15:46:50,204 - INFO - User wants to divide.
+2025-10-01 15:46:50,204 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:50,204 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:50,623 - INFO - User picked up calculator.
+2025-10-01 15:46:50,623 - INFO - User wants to add.
+2025-10-01 15:46:50,624 - INFO - User wants to subtract.
+2025-10-01 15:46:50,624 - INFO - User wants to multiply.
+2025-10-01 15:46:50,624 - INFO - User wants to divide.
+2025-10-01 15:46:50,624 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:50,624 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:50,682 - INFO - User picked up calculator.
+2025-10-01 15:46:50,682 - INFO - User wants to add.
+2025-10-01 15:46:50,682 - INFO - User wants to subtract.
+2025-10-01 15:46:50,682 - INFO - User wants to multiply.
+2025-10-01 15:46:50,683 - INFO - User wants to divide.
+2025-10-01 15:46:50,683 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:50,683 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:51,067 - INFO - User picked up calculator.
+2025-10-01 15:46:51,067 - INFO - User wants to add.
+2025-10-01 15:46:51,067 - INFO - User wants to subtract.
+2025-10-01 15:46:51,067 - INFO - User wants to multiply.
+2025-10-01 15:46:51,067 - INFO - User wants to divide.
+2025-10-01 15:46:51,067 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:51,067 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:51,202 - INFO - User picked up calculator.
+2025-10-01 15:46:51,203 - INFO - User wants to add.
+2025-10-01 15:46:51,203 - INFO - User wants to subtract.
+2025-10-01 15:46:51,203 - INFO - User wants to multiply.
+2025-10-01 15:46:51,203 - INFO - User wants to divide.
+2025-10-01 15:46:51,203 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:51,203 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:51,704 - INFO - User picked up calculator.
+2025-10-01 15:46:51,704 - INFO - User wants to add.
+2025-10-01 15:46:51,704 - INFO - User wants to subtract.
+2025-10-01 15:46:51,704 - INFO - User wants to multiply.
+2025-10-01 15:46:51,704 - INFO - User wants to divide.
+2025-10-01 15:46:51,704 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:51,704 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:51,882 - INFO - User picked up calculator.
+2025-10-01 15:46:51,882 - INFO - User wants to add.
+2025-10-01 15:46:51,882 - INFO - User wants to subtract.
+2025-10-01 15:46:51,882 - INFO - User wants to multiply.
+2025-10-01 15:46:51,882 - INFO - User wants to divide.
+2025-10-01 15:46:51,882 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:51,883 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:52,314 - INFO - User picked up calculator.
+2025-10-01 15:46:52,314 - INFO - User wants to add.
+2025-10-01 15:46:52,314 - INFO - User wants to subtract.
+2025-10-01 15:46:52,314 - INFO - User wants to multiply.
+2025-10-01 15:46:52,314 - INFO - User wants to divide.
+2025-10-01 15:46:52,314 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:52,314 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:52,522 - INFO - User picked up calculator.
+2025-10-01 15:46:52,523 - INFO - User wants to add.
+2025-10-01 15:46:52,523 - INFO - User wants to subtract.
+2025-10-01 15:46:52,523 - INFO - User wants to multiply.
+2025-10-01 15:46:52,523 - INFO - User wants to divide.
+2025-10-01 15:46:52,523 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:52,523 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:52,739 - INFO - User picked up calculator.
+2025-10-01 15:46:52,739 - INFO - User wants to add.
+2025-10-01 15:46:52,739 - INFO - User wants to subtract.
+2025-10-01 15:46:52,739 - INFO - User wants to multiply.
+2025-10-01 15:46:52,740 - INFO - User wants to divide.
+2025-10-01 15:46:52,740 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:52,740 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:53,028 - INFO - User picked up calculator.
+2025-10-01 15:46:53,028 - INFO - User wants to add.
+2025-10-01 15:46:53,028 - INFO - User wants to subtract.
+2025-10-01 15:46:53,028 - INFO - User wants to multiply.
+2025-10-01 15:46:53,028 - INFO - User wants to divide.
+2025-10-01 15:46:53,028 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:53,028 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:53,213 - INFO - User picked up calculator.
+2025-10-01 15:46:53,213 - INFO - User wants to add.
+2025-10-01 15:46:53,213 - INFO - User wants to subtract.
+2025-10-01 15:46:53,213 - INFO - User wants to multiply.
+2025-10-01 15:46:53,213 - INFO - User wants to divide.
+2025-10-01 15:46:53,213 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:53,213 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:53,401 - INFO - User picked up calculator.
+2025-10-01 15:46:53,401 - INFO - User wants to add.
+2025-10-01 15:46:53,401 - INFO - User wants to subtract.
+2025-10-01 15:46:53,401 - INFO - User wants to multiply.
+2025-10-01 15:46:53,401 - INFO - User wants to divide.
+2025-10-01 15:46:53,401 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:53,401 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:53,846 - INFO - User picked up calculator.
+2025-10-01 15:46:53,846 - INFO - User wants to add.
+2025-10-01 15:46:53,846 - INFO - User wants to subtract.
+2025-10-01 15:46:53,846 - INFO - User wants to multiply.
+2025-10-01 15:46:53,846 - INFO - User wants to divide.
+2025-10-01 15:46:53,847 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:53,847 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:53,913 - INFO - User picked up calculator.
+2025-10-01 15:46:53,914 - INFO - User wants to add.
+2025-10-01 15:46:53,914 - INFO - User wants to subtract.
+2025-10-01 15:46:53,914 - INFO - User wants to multiply.
+2025-10-01 15:46:53,914 - INFO - User wants to divide.
+2025-10-01 15:46:53,914 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:53,914 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:54,057 - INFO - User picked up calculator.
+2025-10-01 15:46:54,058 - INFO - User wants to add.
+2025-10-01 15:46:54,058 - INFO - User wants to subtract.
+2025-10-01 15:46:54,058 - INFO - User wants to multiply.
+2025-10-01 15:46:54,058 - INFO - User wants to divide.
+2025-10-01 15:46:54,058 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:54,058 - DEBUG - Control flow has NOT entered the if condition.
+2025-10-01 15:46:54,618 - INFO - User picked up calculator.
+2025-10-01 15:46:54,618 - INFO - User wants to add.
+2025-10-01 15:46:54,619 - INFO - User wants to subtract.
+2025-10-01 15:46:54,619 - INFO - User wants to multiply.
+2025-10-01 15:46:54,619 - INFO - User wants to divide.
+2025-10-01 15:46:54,619 - INFO - User wants to check if a number is prime or not.
+2025-10-01 15:46:54,619 - DEBUG - Control flow has NOT entered the if condition.

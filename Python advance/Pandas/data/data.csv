@@ -1,0 +1,16 @@
+ID,Name,Age,Score,City,Enrollment_Date
+1,Alice,24,92.5,New York,2022-01-15
+2,Bob,,88.0,Los Angeles,2022-03-20
+3,Charlie,35,NaN,Chicago,2021-11-01
+4,David,28,,Los Angeles,2023-05-10
+5,Eve,41,79.1,Phoenix,2022-07-25
+6,Frank,NaN,81.3,N/A,2023-01-05
+7,Grace,22,95.0,San Diego,
+8,Henry,30,-,Dallas,2022-09-12
+9,Ivy,N/A,84.7,Chicago,2023-03-01
+10,Jack,29,None,Austin,2021-12-08
+11,Kate,33,90.5,New York,2023-06-18
+12,Liam,45,86.2,,2022-04-30
+13,Mia,26,75.9,New York,2023-02-14
+14,,31,89.0,Seattle,2021-10-22
+15,Noah,38,77.4,Denver,2022-11-19

@@ -1,0 +1,24 @@
+2024-01-15 10:23:45 | INFO  | Application started successfully
+2024-01-15 10:23:46 | INFO  | Database connection established
+2024-01-15 10:23:47 | DEBUG | User login attempt: username=johndoe
+2024-01-15 10:23:48 | INFO  | User authentication successful: user_id=12345
+2024-01-15 10:23:49 | WARNING | API response slower than expected: 1200ms
+2024-01-15 10:23:50 | INFO  | Data processing started: batch_size=1000
+2024-01-15 10:23:51 | ERROR | Division by zero error in calculate_metrics function
+2024-01-15 10:23:52 | INFO  | Data processing completed: processed_items=950, failed_items=50
+2024-01-15 10:23:53 | WARNING | Multiple failed login attempts from IP: 192.168.1.100
+2024-01-15 10:23:54 | CRITICAL | Database connection lost - system unavailable
+2024-01-15 10:23:55 | INFO  | Application shutdown initiated
+2024-01-15 10:23:56 | INFO  | Application stopped gracefully2025-10-01 15:04:40,625 This is info log
+2025-10-01 15:04:40,625 Yo error log yo
+2025-10-01 15:05:00,026 This is info log
+2025-10-01 15:05:00,026 Yo error log yo
+2025-10-01 15:07:21,462 This is info log
+2025-10-01 15:07:21,462 This is debug log
+2025-10-01 15:07:21,462 Yo error log yo
+2025-10-01 15:07:28,453 This is info log
+2025-10-01 15:07:28,454 This is debug log
+2025-10-01 15:07:28,454 Yo error log yo
+2025-10-01 15:07:33,609 This is info log
+2025-10-01 15:07:33,609 This is debug log
+2025-10-01 15:07:33,609 Yo error log yo

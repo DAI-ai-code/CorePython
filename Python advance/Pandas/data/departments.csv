@@ -1,0 +1,11 @@
+DeptID,DepartmentName,Location
+D01,Sales,New York
+D02,Marketing,San Francisco
+D03,Engineering,Seattle
+D04,Human Resources,Austin
+D05,Finance,Chicago
+D06,Operations,Denver
+D07,IT,Boston
+D08,Research,Atlanta
+D09,Legal,Washington DC
+D10,Customer Support,Dallas
